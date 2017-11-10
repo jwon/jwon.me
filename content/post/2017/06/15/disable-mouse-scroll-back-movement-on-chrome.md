@@ -1,10 +1,8 @@
 ---
 title: Disable mouse scroll back movement on Chrome
-author: jwon
-type: post
 date: 2017-06-15T16:03:19+00:00
-url: /2017/06/15/disable-mouse-scroll-back-movement-on-chrome/
-categories:
+aliases: [/2017/06/15/disable-mouse-scroll-back-movement-on-chrome/]
+tags:
   - How To
 
 ---
@@ -17,9 +15,9 @@ However, the problem with using the side-scrolling wheel and Google Chrome is th
 However, for OS X, there is a quick fix!
 
 Open up your terminal and run this:
-
-    defaults write com.google.Chrome AppleEnableMouseSwipeNavigateWithScrolls -bool false
-    
+```
+defaults write com.google.Chrome AppleEnableMouseSwipeNavigateWithScrolls -bool false
+```
 
 That should fix your issue!
 

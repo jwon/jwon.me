@@ -1,15 +1,12 @@
 ---
 title: Video Speed Controller
-author: jwon
-type: post
 date: 2017-08-01T20:40:16+00:00
-#url: /2017/08/01/video-speed-controller/
-categories:
-  - How To
+aliases: [/2017/08/01/video-speed-controller/]
+tags:
   - Technology
 
 ---
-I&#8217;ve recently downloaded the [Video Speed Controller Chrome Extension][1] and I have to say, it changed my life.
+I've recently downloaded the [Video Speed Controller Chrome Extension][1] and I have to say, it changed my life.
 
 Even if college, I would always watch lecture recordings at 1.5x or 2x speed. However, for the most part, that was confined to downloading a copy of the video file and manually changing the video speed through a video player like VLC.
 
