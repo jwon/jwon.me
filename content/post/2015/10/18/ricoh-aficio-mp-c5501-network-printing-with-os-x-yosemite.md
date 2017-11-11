@@ -52,18 +52,17 @@ If you are satisfied with the following changes, check out the PPD file I've upl
   1. Download the modified pxlcolor-Ricoh driver: [Ricoh-Aficio\_MP\_C5501-pxlcolor-Ricoh][3]
   2. Install the following two packages from [OpenPrinting][6]: [Foomatic-RIP 4.0.6][7] and [gplgs-8.71.dmg][8]
   3. Add a printer from your System Preferences and use settings like this:
-  
-    [<img class="aligncenter size-medium wp-image-150" src="https://blog.jwon.me/site/wp-content/uploads/2015/10/Screen-Shot-2015-10-18-at-9.32.57-AM-300x291.png" alt="Screen Shot 2015-10-18 at 9.32.57 AM" width="300" height="291" srcset="https://blog.jwon.me/site/wp-content/uploads/2015/10/Screen-Shot-2015-10-18-at-9.32.57-AM-300x291.png 300w, https://blog.jwon.me/site/wp-content/uploads/2015/10/Screen-Shot-2015-10-18-at-9.32.57-AM-1024x994.png 1024w, https://blog.jwon.me/site/wp-content/uploads/2015/10/Screen-Shot-2015-10-18-at-9.32.57-AM.png 1034w" sizes="(max-width: 300px) 100vw, 300px" />][9](The most important part for this step is that you pick "HP Jetdirect - Socket" as the protocol and for picking the driver under "Use:", make sure you pick "Other..." and manually pick the PPD file that you just downloaded)
+
+  ![screenshot]({{< static "img/2015/10/18/Screen-Shot-2015-10-18-at-9.32.57-AM.png" >}})(The most important part for this step is that you pick "HP Jetdirect - Socket" as the protocol and for picking the driver under "Use:", make sure you pick "Other..." and manually pick the PPD file that you just downloaded)
   4.  Click "Add" and test the printer!
 
 Hope this helps others that have been struggling with trying to get their Ricoh printer working for for Yosemite!
 
  [1]: http://support.ricoh.com/bb/html/dr_ut_e/re/model/mpc41/mpc41en.htm
  [2]: http://www.openprinting.org/printer/Ricoh/Ricoh-Aficio_MP_C5501
- [3]: https://blog.jwon.me/site/wp-content/uploads/2015/10/Ricoh-Aficio_MP_C5501-pxlcolor-Ricoh.ppd
+ [3]: {{< static "uploads/2015/10/18/Ricoh-Aficio_MP_C5501-pxlcolor-Ricoh.ppd" >}}
  [4]: https://discussions.apple.com/thread/6619722?start=0&tstart=0
  [5]: https://discussions.apple.com/thread/6612623?start=0&tstart=0
  [6]: http://www.linuxfoundation.org/collaborate/workgroups/openprinting/macosxfoomatic
  [7]: http://www.openprinting.org/download/printdriver/macosx/foomatic-rip-4.0.6.230.dmg
  [8]: http://www.openprinting.org/download/printdriver/macosx/gplgs-8.71.dmg 
- [9]: https://blog.jwon.me/site/wp-content/uploads/2015/10/Screen-Shot-2015-10-18-at-9.32.57-AM.png
