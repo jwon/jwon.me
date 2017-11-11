@@ -52,6 +52,9 @@ pygmentCodeFences = true
   #paypal = "username"
   #telegram = "username"
 
+[blackfriday]
+  fractions = false
+
 [[menu.main]]
     name = "Blog"
     url = ""
