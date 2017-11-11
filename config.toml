@@ -5,7 +5,7 @@ theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsUseClasses = true
 pygmentCodeFences = true
-#disqusShortname = "XXX"
+disqusShortname = "blog-jwon-me"
 googleAnalytics = "UA-78420704-1"
 
 [Params]
