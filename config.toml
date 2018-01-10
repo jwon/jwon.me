@@ -1,4 +1,4 @@
-baseurl = "https://blog.jwon.me"
+baseurl = "https://blog.jwon.me/"
 DefaultContentLanguage = "en"
 title = "/home/jwon"
 theme = "beautifulhugo"
