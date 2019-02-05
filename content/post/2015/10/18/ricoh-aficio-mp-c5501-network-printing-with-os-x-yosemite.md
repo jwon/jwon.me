@@ -17,7 +17,7 @@ Fortunately, our friends at OpenPrinting has provided for us [a PPD file][2] to
 Anyway, I took the liberty to modify the PPD file with changes to make it work on Yosemite.
 
 Here is the diff of the changes I've made to :
-```
+```diff
 44c44
 < *NickName: "Ricoh Aficio MP C5501 PXL"
 ---

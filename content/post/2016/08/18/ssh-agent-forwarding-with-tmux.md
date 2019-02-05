@@ -20,7 +20,7 @@ The solution to this is outlined here:
 <https://gist.github.com/martijnvermaat/8070533#gistcomment-1778689>
 
 In essence, you just need to add to your `~/.bashrc`:
-```
+```bash
 # Launch SSH agent if not running
 if ! ps aux |grep $(whoami) |grep ssh-agent |grep -v grep &gt;/dev/null; then ssh-agent ; fi
 
@@ -31,7 +31,7 @@ export SSH_AUTH_SOCK=~/.ssh/ssh_auth_sock
 ```  
 
 And in your `~/.tmux.conf`:
-```
+```bash
 set -g update-environment -r
 setenv -g SSH_AUTH_SOCK $HOME/.ssh/ssh_auth_sock
 ```  

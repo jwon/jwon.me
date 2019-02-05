@@ -15,7 +15,7 @@ However, the problem with using the side-scrolling wheel and Google Chrome is th
 However, for OS X, there is a quick fix!
 
 Open up your terminal and run this:
-```
+```bash
 defaults write com.google.Chrome AppleEnableMouseSwipeNavigateWithScrolls -bool false
 ```
 

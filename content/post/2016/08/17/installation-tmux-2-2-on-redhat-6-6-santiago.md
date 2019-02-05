@@ -13,15 +13,16 @@ Make sure that `which tmux` shows that no `tmux` binary is installed before cont
 # Getting Started
 
 ## Install dependencies
-
-`sudo yum install gcc kernel-devel make ncurses-devel`
-
-## Install latest libevent from source
+```bash
+sudo yum install gcc kernel-devel make ncurses-devel
 ```
+## Install latest libevent from source
+```bash
+$ 
 ```  
 
 ## Install tmux 2.2 from source
-```
+```bash
 $ cd ~
 $ curl -OL https://github.com/tmux/tmux/releases/download/2.2/tmux-2.2.tar.gz
 $ tar -xvzf tmux-2.2.tar.gz
