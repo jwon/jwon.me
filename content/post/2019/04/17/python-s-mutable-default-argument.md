@@ -5,7 +5,6 @@ subtitle: "A quirk of Python you may have run into"
 tags:
 - Python
 ---
-# Introduction
 If you've written a lot of Python code, you might have run into one of Python's quirks, the **Mutable Default Argument**. 
 
 "What is that," you ask?
@@ -17,7 +16,7 @@ def add_to_basket(item, basket=[]):
     return basket
 ```
 A reasonable implementation to add arbitrary items to a basket. It uses keyword arguments to provide a default value for `basket` if it is not passed in.
-
+<!--more-->
 However, you would quickly realize that this does not give you the intended effect:
 ```python3
 >>> add_to_basket('banana')
