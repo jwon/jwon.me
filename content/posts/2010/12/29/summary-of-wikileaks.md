@@ -6,6 +6,6 @@ tags:
   - Technology
 
 ---
-![wikileaks]({{< static "img/2010/12/29/wikileaks.jpg" >}})
+{{< figure src="/img/2010/12/29/wikileaks.jpg" link="/img/2010/12/29/wikileaks.jpg" alt="Wikileaks">}}
 
 A great summary of what's been going on with Wikileaks up until now. =)
