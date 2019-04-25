@@ -59,7 +59,7 @@ Hope this helps others that have been struggling with trying to get their Ricoh 
 
  [1]: http://support.ricoh.com/bb/html/dr_ut_e/re/model/mpc41/mpc41en.htm
  [2]: http://www.openprinting.org/printer/Ricoh/Ricoh-Aficio_MP_C5501
- [3]: {{< static "uploads/2015/10/18/Ricoh-Aficio_MP_C5501-pxlcolor-Ricoh.ppd" >}}
+ [3]: /uploads/2015/10/18/Ricoh-Aficio_MP_C5501-pxlcolor-Ricoh.ppd
  [4]: https://discussions.apple.com/thread/6619722?start=0&tstart=0
  [5]: https://discussions.apple.com/thread/6612623?start=0&tstart=0
  [6]: http://www.linuxfoundation.org/collaborate/workgroups/openprinting/macosxfoomatic
