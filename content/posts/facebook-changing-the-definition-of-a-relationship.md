@@ -22,4 +22,4 @@ I guess internet addictions come and go, but I've never seen so many people **bl
 
 I fear the day when people will need to be on Facebook to get to know their friends, or just to feel sociable. But, oh wait. It's already happening.
 
-[1]: {{< ref "/posts/2010/12/29/hitwise-facebook-overtakes-google-to-become-most-visited-website-in-2010.md" >}}
+[1]: {{< ref "/posts/hitwise-facebook-overtakes-google-to-become-most-visited-website-in-2010.md" >}}
