@@ -25,6 +25,9 @@ disqusShortname = "blog-jwon-me"
   tag = "tags"
   # Categories are disabled by default.
 
+[permalinks]
+  posts = "/posts/:year/:month/:day/:title/"
+
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
