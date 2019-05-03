@@ -1,4 +1,4 @@
-baseURL = "https://blog.jwon.me"
+baseURL = "https://jwon.me"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "/home/jwon"
@@ -10,7 +10,7 @@ pygmentsUseClasses  = true
 rssLimit = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
-googleAnalytics = "UA-78420704-1"
+googleAnalytics = "UA-78420704-2"
 disqusShortname = "blog-jwon-me"
 
 [author]
@@ -44,7 +44,7 @@ disqusShortname = "blog-jwon-me"
   # bgImg = ""  # Homepage background-image URL
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
-  gitUrl = "https://github.com/jwon/blog.jwon.me/commit/"
+  gitUrl = "https://github.com/jwon/jwon.me/commit/"
 
   # Toggling this option needs to rebuild SCSS, requires Hugo extended version
   justifyContent = false  # Set "text-align: justify" to `.content`.
@@ -68,7 +68,7 @@ disqusShortname = "blog-jwon-me"
 
   [[params.social]]
     name = "email"
-    url = "mailto:blog@jwon.me"
+    url = "mailto:website@jwon.me"
 
 [menu]
 
