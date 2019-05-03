@@ -1,0 +1,5 @@
+# Redirect domain aliases to primary domain
+https://blog.jwon.me/* https://www.jwon.me/:splat 301!
+
+# Optional: Redirect default Netlify subdomain to primary domain
+https://jwon-me.netlify.com/* https://www.jwon.me/:splat 301!
