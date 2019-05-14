@@ -1,7 +1,6 @@
 ---
 title: "Reducing Lines of Code"
 date: 2019-05-14T14:55:29-07:00
-draft: true
 toc: false
 images:
 tags:
