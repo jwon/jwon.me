@@ -1,6 +1,5 @@
 ---
 title: About Me
-subtitle: The mastermind behind it all
 comments: false
 
 ---
