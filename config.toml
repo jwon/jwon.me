@@ -49,6 +49,8 @@ disqusShortname = "blog-jwon-me"
   # Toggling this option needs to rebuild SCSS, requires Hugo extended version
   justifyContent = false  # Set "text-align: justify" to `.content`.
 
+  relatedPosts = true  # Add a related content section to all single posts page
+
   # Add custom css
   # customCSS = ["css/foo.css", "css/bar.css"]
 
@@ -91,3 +93,17 @@ disqusShortname = "blog-jwon-me"
     name = "About"
     url = "about/"
     weight = 40
+
+[related]
+
+threshold = 80
+includeNewer = true
+toLower = false
+
+  [[related.indices]]
+    name = "tags"
+    weight = 100
+  [[related.indices]]
+    name  = "date"
+    weight = 10
+    pattern = "2006"
