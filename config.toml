@@ -41,7 +41,7 @@ disqusShortname = "blog-jwon-me"
 
   homeSubtitle = "jwon's Blog to Life, Tech, and Anything Else Interesting"
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-  # bgImg = ""  # Homepage background-image URL
+  bgImg = "bg.jpg"  # Homepage background-image URL
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   gitUrl = "https://github.com/jwon/jwon.me/commit/"
