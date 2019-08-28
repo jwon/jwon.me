@@ -15,6 +15,7 @@ disqusShortname = "blog-jwon-me"
 
 [author]
   name = "James Won"
+  email = "website@jwon.me"
 
 [blackfriday]
   # hrefTargetBlank = true
