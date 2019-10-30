@@ -27,6 +27,8 @@ And this list isn't even exhaustive! For Apple product users, iMessage is anothe
 # Standardization! We want standardization!
 The initial gut reaction to this fragmented ecosystem is usually *standardization*. It's easy to say that if we had standards on messaging, then everyone could adopt those standards and there would be interoperability between app platforms. This sounds good in theory, but does it work in practice?
 
+{{< figure src="https://imgs.xkcd.com/comics/standards.png" alt="xkcd standards comic" >}}
+
 ## Making changes to the standard
 
 Take [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) for example. A lot of people would say that IRC is a success story in standardizing an open chat protocol. There are many different implementations of IRC clients as well as servers. This is great, right? It has stood the test of time and people still use it today. Everything is fine and dandy right? 
