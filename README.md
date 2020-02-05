@@ -8,3 +8,8 @@ $ cd jwon.me
 $ git submodule update --init --recursive
 $ hugo serve
 ```
+
+## To Update the Theme
+```
+$ git submodule update --remote --merge
+```
