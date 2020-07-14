@@ -2,6 +2,8 @@
 title: The Shawshank Redemption
 date: 2012-06-27T17:36:30+00:00
 aliases: [/2012/06/27/the-shawshank-redemption/]
+toc:
+  enable: false
 tags:
   - Life
 

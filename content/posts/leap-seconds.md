@@ -2,6 +2,8 @@
 title: Leap Seconds
 date: 2012-06-22T17:24:39+00:00
 aliases: [/2012/06/22/leap-seconds/]
+toc:
+  enable: false
 tags:
   - Technology
 

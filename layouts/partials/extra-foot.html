@@ -1,2 +1,0 @@
-{{ $script := resources.Get "js/mermaid.js" | minify | fingerprint -}}
-<script src="{{ $script.Permalink }}" {{ printf "integrity=%q" $script.Data.Integrity | safeHTMLAttr }}></script>

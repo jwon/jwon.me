@@ -2,6 +2,8 @@
 title: 'Hitwise: Facebook Overtakes Google To Become Most Visited Website In 2010'
 date: 2010-12-30T03:21:00+00:00
 aliases: [/2010/12/29/hitwise-facebook-overtakes-google-to-become-most-visited-website-in-2010/]
+toc:
+  enable: false
 tags:
   - Technology
   - Opinion

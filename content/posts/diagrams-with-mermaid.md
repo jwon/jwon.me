@@ -2,7 +2,6 @@
 title: "Diagrams With Mermaid"
 date: 2019-05-01T15:06:03-07:00
 toc: false
-images:
 tags: 
   - Technology
 ---

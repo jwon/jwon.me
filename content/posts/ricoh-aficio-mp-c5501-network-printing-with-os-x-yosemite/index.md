@@ -47,7 +47,7 @@ Here are the 4 changes that I made:
 
 If you are satisfied with the following changes, check out the PPD file I've uploaded above and try installing it!
 
-# How to install
+## How to install
 
   1. Download the modified pxlcolor-Ricoh driver: [Ricoh-Aficio\_MP\_C5501-pxlcolor-Ricoh][3]
   2. Install the following two packages from [OpenPrinting][6]: [Foomatic-RIP 4.0.6][7] and [gplgs-8.71.dmg][8]

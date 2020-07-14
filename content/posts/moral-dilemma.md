@@ -2,6 +2,8 @@
 title: Moral Dilemma
 date: 2012-06-18T21:17:13+00:00
 aliases: [/2012/06/18/moral-dilemma/]
+toc:
+  enable: false
 tags:
   - Opinion
   - Technology

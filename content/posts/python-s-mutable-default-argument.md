@@ -5,6 +5,7 @@ subtitle: "A quirk of Python you may have run into"
 tags:
 - Python
 ---
+## Intro
 If you've written a lot of Python code, you might have run into one of Python's quirks, the **Mutable Default Argument**. 
 
 "What is that," you ask?
@@ -34,7 +35,7 @@ There is a great thread on Stack Overflow that [discusses this][1] and the offic
 
 > Default parameter values are evaluated from left to right when the function definition is executed. **This means that the expression is evaluated once, when the function is defined, and that the same “pre-computed” value is used for each call.** This is especially important to understand when a default parameter is a mutable object, such as a list or a dictionary: if the function modifies the object (e.g. by appending an item to a list), the default value is in effect modified. This is generally not what was intended. A way around this is to use None as the default, and explicitly test for it in the body of the function...
 
-# So what can you do about this?
+## So what can you do about this?
 
 The easiest thing to do is to make the default parameter's value `None`. Like so:
 ```python3
@@ -54,7 +55,7 @@ def add_to_basket(item, basket=None):
 ```
 This works, but if something is passed into `basket` that has a `False`-y value (e.g. empty string (`''`) or empty dictionary (`{}`)), it will still return the default list value. I usually don't have to worry about this, so I like using the `or` notation.
 
-# Conclusion
+## Conclusion
 Hopefully this gives you a better idea of the gotcha in Python. It's one of those things where if you've never seen it before, could be very disorientating.
 
 [1]: https://stackoverflow.com/q/1132941

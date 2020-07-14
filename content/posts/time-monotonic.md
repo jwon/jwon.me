@@ -2,6 +2,8 @@
 title: "Python's time.monotonic()"
 date: 2019-02-06T12:44:49-08:00
 subtitle: "Use it instead of time.time() for time deltas"
+toc:
+  enable: false
 tags:
   - Python
 ---

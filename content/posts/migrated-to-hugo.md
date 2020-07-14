@@ -2,6 +2,8 @@
 title: "Migrated to Hugo"
 date: 2017-11-10T23:39:58-08:00
 subtitle: "static site generation ftw!"
+toc:
+  enable: false
 tags:
   - Technology
 ---

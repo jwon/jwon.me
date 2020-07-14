@@ -2,6 +2,8 @@
 title: Video Speed Controller
 date: 2017-08-01T20:40:16+00:00
 aliases: [/2017/08/01/video-speed-controller/]
+toc:
+  enable: false
 tags:
   - Technology
 

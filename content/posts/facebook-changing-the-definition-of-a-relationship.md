@@ -2,6 +2,8 @@
 title: 'Facebook: Changing the Definition of a Relationship'
 date: 2010-12-30T05:42:30+00:00
 aliases: [/2010/12/29/facebook-changing-the-definition-of-a-relationship/]
+toc:
+  enable: false
 tags:
   - Opinion
 

@@ -1,6 +1,7 @@
 ---
 title: "Talks"
-comments: false
+comment:
+  enable: false
 ---
 You can find all of my public talks here.
 

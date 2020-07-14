@@ -2,6 +2,8 @@
 title: 'Sprint Data Woes & Verizon Unlimited Data'
 date: 2013-03-04T23:59:22+00:00
 aliases: [/2013/03/04/sprint-data-woes-verizon-unlimited-data/]
+toc:
+  enable: false
 tags:
   - Technology
 

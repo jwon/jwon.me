@@ -2,6 +2,8 @@
 title: Jelly Bean Update on the HTC EVO 4G LTE
 date: 2012-12-14T06:02:48+00:00
 aliases: [/2012/12/13/jelly-bean-update-on-the-htc-evo-4g-lte/]
+toc:
+  enable: false
 tags:
   - Technology
 

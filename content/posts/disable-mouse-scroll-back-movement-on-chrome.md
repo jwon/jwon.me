@@ -1,6 +1,8 @@
 ---
 title: Disable mouse scroll back movement on Chrome
 date: 2017-06-15T16:03:19+00:00
+toc:
+  enable: false
 aliases: [/2017/06/15/disable-mouse-scroll-back-movement-on-chrome/]
 tags:
   - How To

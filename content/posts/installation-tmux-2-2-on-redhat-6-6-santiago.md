@@ -10,18 +10,18 @@ Using this guide: <https://www.snip2code.com/Snippet/1232432/Tmux-2-2-is-late-o
 
 Make sure that `which tmux` shows that no `tmux` binary is installed before continuing.
 
-# Getting Started
+## Getting Started
 
-## Install dependencies
+### Install dependencies
 ```bash
 sudo yum install gcc kernel-devel make ncurses-devel
 ```
-## Install latest libevent from source
+### Install latest libevent from source
 ```bash
 $ 
 ```  
 
-## Install tmux 2.2 from source
+### Install tmux 2.2 from source
 ```bash
 $ cd ~
 $ curl -OL https://github.com/tmux/tmux/releases/download/2.2/tmux-2.2.tar.gz
@@ -32,7 +32,7 @@ $ make
 $ sudo make install
 ```  
 
-# Validating
+## Validating
 
 Close your terminal window.
 

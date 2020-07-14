@@ -2,6 +2,8 @@
 title: Samsung Galaxy S4 impressions
 date: 2013-03-15T20:57:12+00:00
 aliases: [/2013/03/15/samsung-galaxy-s4-impressions/]
+toc:
+  enable: false
 tags:
   - Technology
 
