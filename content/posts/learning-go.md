@@ -2,7 +2,6 @@
 title: "Learning Go"
 date: 2020-02-05T10:32:01-08:00
 toc: false
-images:
 tags: 
   - Golang
 ---

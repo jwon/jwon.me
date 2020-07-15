@@ -4,7 +4,7 @@ date: 2015-10-18T16:25:45+00:00
 aliases: [/2015/10/18/ricoh-aficio-mp-c5501-network-printing-with-os-x-yosemite/]
 tags:
   - How To
-
+lightgallery: true
 ---
 My church has a **Ricoh Aficio MP C5501** printer and I was trying to get network printing working on my Macbook Pro with Yosemite.
 
@@ -52,7 +52,7 @@ If you are satisfied with the following changes, check out the PPD file I've upl
   1. Download the modified pxlcolor-Ricoh driver: [Ricoh-Aficio\_MP\_C5501-pxlcolor-Ricoh][3]
   2. Install the following two packages from [OpenPrinting][6]: [Foomatic-RIP 4.0.6][7] and [gplgs-8.71.dmg][8]
   3. Add a printer from your System Preferences and use settings like this:
-  {{< figure src="Screen-Shot-2015-10-18-at-9.32.57-AM.png" alt="screenshot" >}}(The most important part for this step is that you pick "HP Jetdirect - Socket" as the protocol and for picking the driver under "Use:", make sure you pick "Other..." and manually pick the PPD file that you just downloaded)
+  {{< image src="Screen-Shot-2015-10-18-at-9.32.57-AM.png" alt="screenshot" >}}(The most important part for this step is that you pick "HP Jetdirect - Socket" as the protocol and for picking the driver under "Use:", make sure you pick "Other..." and manually pick the PPD file that you just downloaded)
   4.  Click "Add" and test the printer!
 
 Hope this helps others that have been struggling with trying to get their Ricoh printer working for for Yosemite!

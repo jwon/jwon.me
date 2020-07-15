@@ -4,6 +4,7 @@ date: 2019-08-07T12:34:56-07:00
 tags: 
   - Opinion
   - Technology
+lightgallery: true
 ---
 Today, there are many messaging platforms to communicate with people. Depending on the circumstance or the person you are trying to reach, you might use a different platform/app to interact with him/her.
 
@@ -25,7 +26,9 @@ And this list isn't even exhaustive! For Apple product users, iMessage is anothe
 ## Standardization! We want standardization!
 The initial gut reaction to this fragmented ecosystem is usually *standardization*. It's easy to say that if we had standards on messaging, then everyone could adopt those standards and there would be interoperability between app platforms. This sounds good in theory, but does it work in practice?
 
-{{< figure src="https://imgs.xkcd.com/comics/standards.png" alt="xkcd standards comic" >}}
+<figure>
+{{< image src="https://imgs.xkcd.com/comics/standards.png" alt="xkcd standards comic" >}}
+</figure>
 
 ### Making changes to the standard
 

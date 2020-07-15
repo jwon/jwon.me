@@ -6,8 +6,9 @@ toc:
   enable: false
 tags:
   - Technology
-
+lightgallery: true
 ---
-{{< figure src="wikileaks.jpg" link="wikileaks.jpg" alt="Wikileaks">}}
+
+{{< image src="wikileaks.jpg" alt="Wikileaks">}}
 
 A great summary of what's been going on with Wikileaks up until now. =)

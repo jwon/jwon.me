@@ -2,9 +2,11 @@
 title: About Me
 comment:
   enable: false
-
+lightgallery: true
 ---
-{{< figure src="headshot.jpg" alt="James Won profile">}}
+<figure>
+{{< image src="headshot.jpg" alt="James Won profile">}}
+</figure>
 
 Hi, I am a Python & Golang Programmer and Site Reliability Engineer based out of the Bay Area. I'm a privacy enthusiast, Linux geek, and into home networking.
 
