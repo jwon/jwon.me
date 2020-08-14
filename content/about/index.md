@@ -8,7 +8,7 @@ lightgallery: true
 {{< image src="headshot.jpg" alt="James Won profile">}}
 </figure>
 
-Hi, I am a Python & Golang Programmer and Site Reliability Engineer based out of the Bay Area. I'm a privacy enthusiast, Linux geek, and into home networking.
+Hi, I am a Python & Go Programmer and Site Reliability Engineer based out of the Bay Area. I'm a privacy enthusiast, Linux geek, and into home networking.
 
 My blog is mostly a collection of random thoughts, but I hope that it can provide some value to you!
 
