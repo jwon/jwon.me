@@ -1,5 +1,5 @@
 ---
-title: "Sets in Golang"
+title: "Sets in Go"
 subtitle: ""
 date: 2020-08-13T07:15:49-07:00
 lastmod: 2020-08-13T07:15:49-07:00
