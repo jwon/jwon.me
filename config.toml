@@ -3,7 +3,7 @@ baseURL = "https://www.jwon.me"
 defaultContentLanguage = "en"
 # language code
 languageCode = "en"
-title = "/home/jwon"
+title = "James Won"
 
 # whether to use robots.txt
 # 是否使用 robots.txt
