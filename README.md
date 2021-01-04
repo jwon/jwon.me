@@ -13,3 +13,8 @@ $ hugo serve
 ```
 $ git submodule update --remote --merge
 ```
+
+## To Update Hugo
+```
+$ brew upgrade hugo
+```
